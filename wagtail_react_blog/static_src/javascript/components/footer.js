@@ -6,8 +6,8 @@ class Footer extends React.Component {
         return (
             <footer class="py-5 bg-dark">
                 <div class="container">
-                    <p class="m-0 text-center text-white">Copyright © 2017-2018 Built with <a
-                        href="https://github.com/michael-yin/wagtail-bootstrap-blog">wagtail-bootstrap-blog</a>
+                    <p class="m-0 text-center text-white">Copyright © 2020 Built with <a
+                        href="https://github.com/parksunwoo/wagtail-react-blog">Modu-Aiffel-Dev</a>
                     </p>
                 </div>
             </footer>
